@@ -1,5 +1,5 @@
-from tkinter import Tk, Label, Button, Entry
-
+from tkinter import Tk, Entry
+from tkinter import Button, Label
 
 class Root(Tk):
     def __init__(self):
